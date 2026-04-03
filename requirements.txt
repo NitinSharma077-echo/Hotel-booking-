@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+requests
+redis
+pymongo
+python-dotenv
+playwright
+streamlit
